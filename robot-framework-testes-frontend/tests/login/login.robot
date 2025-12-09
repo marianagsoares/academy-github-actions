@@ -10,5 +10,3 @@ Cenario 01: Realizar Login com Sucesso
     Realizar Login
     Verificar Redirecionamento Para Home
     Verificar Elemento Cadastros Visivel
-
-#github actions
